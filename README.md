@@ -15,9 +15,16 @@ This will be step by step instructions using Amazon Web Services console to crea
 If you are using a user, you will need to attach some of these permissions in order to have access to creating the resources. 
 
   AutoScalingFullAccess
+  
   AmazonEKSClusterPolicy
+  
   AmazonEKSWorkerNodePolicy
+  
   AmazonVPCFullAccess
+  
   AmazonEKSServicePolicy
+  
   AmazonEKS_CNI_Policy
+  
   AmazonEC2FullAccess
+  
