@@ -10,6 +10,7 @@ This will be step by step instructions using Amazon Web Services console to crea
 3. S3 Bucket
 4. EFS
 5. ECR
+6. AWS Pricing
 
 # Perrmisions 
 If you are using a user, you will need to attach some of these permissions in order to have access to creating the resources. 
