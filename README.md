@@ -12,7 +12,7 @@ The content here will show how to create some of the resources using AWS and som
 5. ECR
 6. AWS Pricing
 
-# Perrmisions 
+# Permissions 
 If you are using a user, you will need to attach some of these permissions in order to have access to creating the resources. 
 
   AutoScalingFullAccess
