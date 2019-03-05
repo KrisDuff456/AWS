@@ -1,5 +1,5 @@
 # AWS
-This will be step by step instructions using Amazon Web Services console to create and launch services such as EKS or something simple as a VPC. 
+The content here will show how to create some of the resources using AWS and some will be basic understanding of AWS aspects. 
 
 *Note I am still learning the AWS platform and these instructions are based off my experiance using the platform.
 
