@@ -11,6 +11,7 @@ The content here will show how to create some of the resources using AWS and som
 4. EFS
 5. ECR
 6. AWS Pricing
+7. AWS IAM
 
 # Permissions 
 If you are using a user, you will need to attach some of these permissions in order to have access to creating the resources. 
